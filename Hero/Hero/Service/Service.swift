@@ -51,11 +51,11 @@ struct Service: ServiceProtocol {
                 return
             }
             
-            let reportModel = try? JSONDecoder().decode([Item].self, from: data)
+            let items = try? JSONDecoder().decode([Item].self, from: data)
             
             DispatchQueue.main.async {
                 self.showActivityIndicator(show: false)
-                completionHandler(reportModel, nil)
+                completionHandler(items, nil)
             }
         }
         

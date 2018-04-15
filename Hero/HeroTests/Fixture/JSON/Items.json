@@ -1,0 +1,39 @@
+ [
+  {
+  "gtin14": "04250106604183",
+  "brand_name": "Leonie",
+  "name": "Mineralwasser Medium",
+  "size": "1",
+  "images": []
+  },
+  {
+  "gtin14": "00080480015305",
+  "brand_name": "Bacardi",
+  "name": "Bacardi Superior Rum",
+  "size": "1LT",
+  "images": []
+  },
+  {
+  "gtin14": "05000394002432",
+  "brand_name": "Duracell",
+  "name": "Simply",
+  "images": []
+  },
+  {
+  "gtin14": "00628451361022",
+  "brand_name": "Rotana",
+  "name": "Peach",
+  "size": "250g",
+  "images": []
+  },
+  {
+  "gtin14": "00796435419035",
+  "brand_name": "htc",
+  "name": "8s",
+  "size": "4546",
+  "ingredients": "item[ingredients]",
+  "serving_size": "item[serving_size]",
+  "servings_per_container": "item[servings_per_container]",
+  "images": []
+  }
+]
