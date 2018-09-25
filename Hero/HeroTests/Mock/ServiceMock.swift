@@ -10,7 +10,7 @@ import Foundation
 
 @testable import Hero
 
-class  ServiceMock: ServiceProtocol {
+class ServiceMock: ServiceProtocol {
     
     var errorMock: RequestError? = nil
     var getItemsMock: [Item]? = nil
