@@ -304,13 +304,16 @@
 				TargetAttributes = {
 					FE96CE70208399A2006111D0 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1000;
 					};
 					FE96CE84208399A4006111D0 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1000;
 						TestTargetID = FE96CE70208399A2006111D0;
 					};
 					FE96CE8F208399A4006111D0 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1000;
 						TestTargetID = FE96CE70208399A2006111D0;
 					};
 				};
@@ -563,7 +566,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = josh.Hero;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -581,7 +584,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = josh.Hero;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -601,7 +604,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = josh.HeroTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hero.app/Hero";
 			};
@@ -622,7 +625,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = josh.HeroTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hero.app/Hero";
 			};
@@ -642,7 +645,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = josh.HeroUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Hero;
 			};
@@ -662,7 +665,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = josh.HeroUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Hero;
 			};
